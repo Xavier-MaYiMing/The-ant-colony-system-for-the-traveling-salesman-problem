@@ -41,9 +41,9 @@ if __name__ == '__main__':
 
 ##### Output:
 
-![convergence curve](C:\Users\dell\Desktop\研究生\个人算法主页\The ant colony system for the traveling salesman problem\convergence curve.png)
+![image]([https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-fuzzy-multi-objective-path-optimization-problem/blob/main/FMOPOP_example.PNG](https://github.com/Xavier-MaYiMing/The-ant-colony-system-for-the-traveling-salesman-problem/blob/main/convergence%20curve.png))
 
-![result](C:\Users\dell\Desktop\研究生\个人算法主页\The ant colony system for the traveling salesman problem\result.png)
+![image]([https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-fuzzy-multi-objective-path-optimization-problem/blob/main/FMOPOP_example.PNG](https://github.com/Xavier-MaYiMing/The-ant-colony-system-for-the-traveling-salesman-problem/blob/main/result.png))
 
 ```python
 {
